@@ -1,6 +1,10 @@
 .mainCOntainer {
-  max-width: 1440px;
   width: 100%;
+  height: 100vh;
   margin: 0 auto;
-  background-color: white;
+  background-color: #dbdbdb;
+}
+
+.dark {
+  background-color: #222222;
 }

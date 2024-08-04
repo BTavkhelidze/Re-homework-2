@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  padding: 8.4rem 8.3rem 8rem 9.3rem;
+  justify-content: space-between;
+}
+.container div {
+  max-width: 52.1rem;
+  margin: auto;
+}
+.container div h1 {
+  font-size: 51px;
+  font-weight: 700;
+  line-height: 70.2px;
+  text-align: left;
+  color: rgba(69, 81, 116, 0.8);
+  margin-bottom: 2.5rem;
+}
+.container div h1 span {
+  display: inline-block;
+}
+.container div p {
+  font-size: 19.93px;
+  font-weight: 500;
+  line-height: 25.95px;
+  text-align: left;
+  color: #828282;
+  margin-bottom: 2.2rem;
+}
+.container div button {
+  padding: 1.2rem 2.4rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #455174;
+  color: #ffffff;
+}
+.container .imageWrapper {
+  width: 50rem;
+  height: 50rem;
+  border: 1px solid #a6bcfa;
+  border-radius: 50%;
+  overflow: hidden;
+  background: rgba(30, 29, 29, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .imageWrapper img {
+  margin-left: 60px;
+  max-width: 36.8rem;
+  width: 100%;
+  height: 45.6rem;
+}
+
+.skillsContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=Main.module.css.map */

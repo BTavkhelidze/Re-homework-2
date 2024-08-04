@@ -24,8 +24,15 @@
             line-height: 18.75px;
             text-align: center;
           }
+
+          .dark {
+            color: rgba(255, 255, 255, 0.8);
+          }
         }
       }
     }
+  }
+  .mode {
+    cursor: pointer;
   }
 }

@@ -13,6 +13,8 @@
       font-weight: 700;
       line-height: 70.2px;
       text-align: left;
+      color: #455174cc;
+
       span {
         display: inline-block;
       }
@@ -35,6 +37,11 @@
 
       background-color: #455174;
       color: #ffffff;
+    }
+    .socialMedia {
+      margin-top: 4.3rem;
+      display: flex;
+      gap: 3.3rem;
     }
   }
   .imageWrapper {
@@ -59,4 +66,10 @@
       height: 45.6rem;
     }
   }
+}
+.skillsContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
